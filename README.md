@@ -1,0 +1,2 @@
+This project is a series of recipes for cooking listed out
+It will demonstrate the ability to create repos on github and connect them to a local machine by cloning them as well as the ability to orgfanize files in a created html webpage for the recipes.
