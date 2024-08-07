@@ -1,0 +1,21 @@
+/* css stylesheet*/
+* {background-color: rgb(0, 0, 0)}
+
+.yellowtxt {
+    color: yellow;
+    background-color: red;
+}
+.font {
+    font-size: 33px;
+    font-family: cursive, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}   
+.redtxt {
+    color: red;
+}
+.align {
+    background-position: center;
+    height: 500px;
+    background-image: ;
+
+}
