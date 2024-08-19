@@ -58,3 +58,10 @@ a:hover {
     font-family: Baskerville, Albertus, Aldus, Georgia, 'Times New Roman', Times, serif;
     text-align: left;
 }
+
+.highlight {
+    background-color: yellow;
+}
+.divider {
+    margin: 50px;
+}
