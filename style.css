@@ -27,7 +27,6 @@
 .align {
     background-position: center;
     height: 500px;
-    background-image: ;
 
 }
 #header {
@@ -47,4 +46,15 @@
 
 a:hover {
     background-color: yellow;
+}
+
+.list-margin {
+    margin: 20px;
+    padding: 20px;
+}
+
+.olfont {
+    font-size: 33px;
+    font-family: Baskerville, Albertus, Aldus, Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
 }
