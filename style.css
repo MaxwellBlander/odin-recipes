@@ -18,7 +18,7 @@
 }
 .font {
     font-size: 33px;
-    font-family: cursive, Georgia, 'Times New Roman', Times, serif;
+    font-family: Baskerville, Albertus, Aldus, Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }   
 .redtxt {
@@ -40,7 +40,11 @@
 }
 .outline {
     outline: double red 12px;
-    margin: 12px;
+    margin: 20px;
     padding: 12px;
     display: block;
+}
+
+a:hover {
+    background-color: yellow;
 }
